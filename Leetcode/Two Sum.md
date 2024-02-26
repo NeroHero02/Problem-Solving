@@ -1,6 +1,6 @@
 ## Two Sum
 
-Link Problem [Two Sum]: https://leetcode.com/problems/two-sum/
+Link Problem [https://leetcode.com/problems/two-sum/]
 
 ```cpp
 class Solution {
